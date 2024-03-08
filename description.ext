@@ -5,3 +5,5 @@ class CfgFunctions
 {
 	#include "functions.hpp"
 };
+
+#include "Config_Animations.hpp"
