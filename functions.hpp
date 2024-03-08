@@ -4,7 +4,6 @@ class Villas
 	class anims
 	{
 		file = "Scripts";
-		class animsync {};	
 		class initMenuAnims {};
 	};
 };

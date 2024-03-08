@@ -61,7 +61,9 @@ class menuBaile {
 		};
 		class dance: RscButtonMenuOK
 		{
+			idc = 11992;
 			text = "Bailar"; //--- ToDo: Localize;
+			//action = "closeDialog 0; [""General""] spawn vls_fnc_initMenuAnims;";
 			x = 0.685625 * safezoneW + safezoneX;
 			y = 0.510314 * safezoneH + safezoneY;
 			w = 0.055 * safezoneW;
